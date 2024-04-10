@@ -1,4 +1,4 @@
-[image](https://github.com/Geomorphica/Word_template/assets/135133486/df80a39a-c8e4-488e-8e76-8776c3abcd84)
+
 
 # Submission template for Geomorphica
 This respository includes template for a Geomorphica article in the formats of Microsoft Word and LaTeX. Submissions of manuscripts using these templates are highly preferable by the editorial team of the Geomorphica (https://geomorphica.org).
