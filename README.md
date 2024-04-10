@@ -4,7 +4,7 @@
 This respository includes Microsoft Word templates for the submissions to the journal Geomorphica (https://geomorphica.org). Submissions using these templates are highly preferable by the editorial team.
 
 ### About the journal
-Geomorphica is a community-led and community-driven Diamond Open Access journal that promotes academic discourse and disseminates research results pertaining to all aspects of geomorphology, including, but not limited to, landscapes and landforms, earth and other planetary near-surface processes, and the mechanisms, dynamics and timescales pertaining to these processes. Diamond Open Access journals are free for all to read, without subscription, and do not charge article processing fees to authors.
+Geomorphica is a community-led and community-driven **Diamond Open Access journal** that promotes academic discourse and disseminates research results pertaining to all aspects of geomorphology, including, but not limited to, landscapes and landforms, earth and other planetary near-surface processes, and the mechanisms, dynamics and timescales pertaining to these processes. Diamond Open Access journals are **free for all to read, without subscription, and do not charge article processing fees to authors**.
 
 ### Geomorphica is open for submissions!
 
