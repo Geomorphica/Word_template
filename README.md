@@ -3,7 +3,7 @@
 # Microsoft Word templates for submission to Geomorphica
 This respository includes Microsoft Word templates of the **title page** and the **anonymous manuscript** for submissions to the journal Geomorphica (https://geomorphica.org). Submissions using these templates are highly preferable by the editorial team. The LaTeX templates are also available here: https://github.com/Geomorphica/LaTex_template.git
 
-The folder "Other templates after acceptance" include templates for the **supplementary materials** and the **non-english abstract** for final file upload during the copyediting and production stages.
+The folder ‘Other templates after acceptance’ includes templates for the **supplementary materials** and the **non-English abstract** during the copyediting and production stages as needed.
 
 Please refer to our auther guidelines (https://journals.psu.edu/geomorphica/authorguidelines) for details about submission formatting. **The initial submission should be preferably pdf files**, and **final submissions after acceptance as docx or LaTeX files**. We recommend using Geomorphica templates as this will help the publication process post-acceptance. Since Geomorphica has opted for a triple-anonymous peer-review process, we require two files to be submitted:
 * the title page of the manuscript, including:
