@@ -22,4 +22,4 @@ Geomorphica is a community-led and community-driven **Diamond Open Access journa
 
 Thanks to the work of a diverse community with more than 30 volunteers that have contributed to its development over the last couple of years, Geomorphica is now open for submissions!
 
-To support Geomorphica, you can also sign up to be a reviewer for the journal and indicate your field(s) of expertise in the reviewer's database: https://geomorphicaadmin.pythonanywhere.com/ and follow us on [Bluesky](https://bsky.app/profile/geomorphica.bsky.social), [Instagram](https://bsky.app/profile/geomorphica.bsky.social), [LinkedIn](https://www.linkedin.com/company/geomorphica/), and [Twitter/X](https://twitter.com/Geomorphica).
+To support Geomorphica, you can also sign up to be a reviewer for the journal and indicate your field(s) of expertise in the reviewer's database: https://geomorphicaadmin.pythonanywhere.com/ and follow us on [Bluesky](https://bsky.app/profile/geomorphica.bsky.social), [Instagram](https://bsky.app/profile/geomorphica.bsky.social), [LinkedIn](https://www.linkedin.com/company/geomorphica/), and [X](https://x.com/Geomorphica).
